@@ -5,7 +5,7 @@ A data analysis and machine learning pipeline to identify factors driving Uber r
 
 A Python project focused on analyzing Uber ride data and developing a machine learning model to predict ride cancellations.
 
-## Introduction
+## 🤖 Introduction
 
 This repository contains a Python project analyzing Uber rides data and building a model to predict ride cancellations. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, and a machine learning pipeline using scikit-learn. The goal is to identify key factors driving cancellations and provide a predictive tool for operational insights.
 
