@@ -12,10 +12,10 @@ This repository contains a Python project analyzing Uber rides data and building
 ## 📂 Repository Contents
 
 - uber_rides_2024.csv (Not included – link to original data below)
-- clean_uber_rides_2024.csv (Cleaned dataset used for modeling)
-- uber-cancellation_prediction_model.ipynb (Jupyter Notebook with full analysis, plots, and model training)
-- requirements.txt (Python dependencies)
-- README.md (This file)
+- [clean_uber_rides_2024.csv](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/clean_uber_rides_2024.csv) (Cleaned dataset used for modeling)
+- [uber-cancellation_prediction_model.ipynb](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/uber-cancellation_prediction_model.ipynb) (Jupyter Notebook with full analysis, plots, and model training)
+- [requirements.txt](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/requirements.txt) (Python dependencies)
+- [README.md](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/README.md) (This file)
 
 ## 📝 Project Overview
 
@@ -89,7 +89,7 @@ Install the required Python packages:
 
 ## ⚖️ License
 
-This project is licensed under the MIT License. See the LICENSE file in the repository for full details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/LICENSE) file in the repository for full details.
 
 ## 🤝 Contributing
 
