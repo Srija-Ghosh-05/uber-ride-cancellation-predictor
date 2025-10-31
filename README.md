@@ -16,6 +16,7 @@ This repository contains a Python project analyzing Uber rides data and building
 - [uber-cancellation_prediction_model.ipynb](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/uber-cancellation_prediction_model.ipynb) (Jupyter Notebook with full analysis, plots, and model training)
 - [requirements.txt](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/requirements.txt) (Python dependencies)
 - [README.md](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/README.md) (This file)
+- [LICENSE](https://github.com/Srija-Ghosh-05/uber-ride-cancellation-predictor/blob/main/LICENSE) (Project license – MIT License)
 
 ## 📝 Project Overview
 
